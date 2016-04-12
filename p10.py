@@ -15,3 +15,4 @@ for age in ages:
 print total_age
 print"avgerageage:", total_age/ len(ages)
 
+push
